@@ -9,11 +9,8 @@ This repository contains the code and resources for a sentiment analysis project
 - [Usage](#usage)
 - [Preprocessing](#preprocessing)
 - [Model](#model)
-- [Loss and Accuracy Diagram](#loss-and-accuracy-diagram)
 - [Prediction](#prediction)
 - [Results](#results)
-- [References](#references)
-- [Contributing](#contributing)
 
   
 ## Introduction
@@ -69,12 +66,6 @@ To train the sentiment analysis model using the ParsBERT transformer, follow the
 
 ParsBERT is a monolingual model based on the BERT architecture from Google, but it has been trained on a large volume of Persian texts on various topics. This model has much higher accuracy for Persian language processing applications, including sentiment analysis and text classification, compared to the multilingual BERT model [^1].
 
-## Loss and Accuracy Diagram
-
-![image](https://github.com/zkhotanlou/Ebook_Comments_Sentiment_Analysis/assets/84021970/5c1fef5d-1126-4d49-9792-60354156940a)
-
-![image](https://github.com/zkhotanlou/Ebook_Comments_Sentiment_Analysis/assets/84021970/9af9f577-70fe-4f25-8cd2-5804fa1be489)
-
 ## Prediction
 
 After training the model, you can use it to make predictions on new comments. Here's an example of how to use the prediction function:
@@ -89,6 +80,12 @@ The project results include:
 - A trained sentiment analysis model based on ParsBERT.
 - Evaluation metrics such as F1-score, precision, and recall.
 - Predictions and probabilities for new comments.
+  
+### Loss and Accuracy Diagram
+
+![image](https://github.com/zkhotanlou/Ebook_Comments_Sentiment_Analysis/assets/84021970/5c1fef5d-1126-4d49-9792-60354156940a)
+
+![image](https://github.com/zkhotanlou/Ebook_Comments_Sentiment_Analysis/assets/84021970/9af9f577-70fe-4f25-8cd2-5804fa1be489)
 
 ## References
 
@@ -97,7 +94,7 @@ The project results include:
    - Published: October 2021
    - Journal: Neural Processing Letters
 
-### Contributing
+## Contributing
 
 Contributions are welcome! If you have ideas for improving the project or want to collaborate, please open an issue or create a pull request.
 
