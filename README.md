@@ -93,9 +93,9 @@ The project results include:
 ## References
 
 1. [ParsBERT: Transformer-based Model for Persian Language Understanding]([https://example.com/parsbert-paper](https://doi.org/10.1007%2Fs11063-021-10528-4))
-  - Authors: Mehrdad Farahani and Mohammad Gharachorloo and Marzieh Farahani and Mohammad Manthouri
-  - Published: October 2021
-  - Journal: Neural Processing Letters
+   - Authors: Mehrdad Farahani and Mohammad Gharachorloo and Marzieh Farahani and Mohammad Manthouri
+   - Published: October 2021
+   - Journal: Neural Processing Letters
 
 ### Contributing
 
